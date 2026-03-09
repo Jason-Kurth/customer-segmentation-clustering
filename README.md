@@ -7,9 +7,13 @@ This project applies unsupervised machine learning to identify meaningful custom
 
 ## Method
 - Data cleaning and feature engineering
-- Dimensionality reduction using PCA and t-SNE
-- Optimal cluster identification using elbow and silhouette methods
+
+- Optimal cluster identification using elbow, silhouette & hierarchical methods
 - K-Means clustering to generate segments
+- Visualisation of cluster results using PCA and t-SNE
+
+## Outcome
+Five customer segments were identified with distinct purchasing patterns and engagement levels, enabling targeted marketing and retention strategies.
 
 ## Tools
 Python, Pandas, scikit-learn, PCA, t-SNE, K-Means
